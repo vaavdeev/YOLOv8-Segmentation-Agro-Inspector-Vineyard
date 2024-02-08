@@ -16,5 +16,5 @@
 - ninja==1.11.1
  -----------------------------------------------------
 
-Operating procedure:
+# Operating procedure:
 - install the necessary components; 
