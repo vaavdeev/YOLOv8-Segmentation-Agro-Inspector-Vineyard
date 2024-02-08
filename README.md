@@ -19,7 +19,7 @@ Work in the vineyard:
 - security functions;
 
 ------------------------------------------------
-Software environment for training the model - Ultralytics
+# Software environment for training the model - Ultralytics
 https://github.com/ultralytics/ultralytics
 
 Models trained: yolov8n-seg.pt, yolov8m-seg.pt, yolov8s-seg.pt
