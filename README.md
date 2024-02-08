@@ -25,7 +25,7 @@ https://github.com/ultralytics/ultralytics
 Models trained: yolov8n-seg.pt, yolov8m-seg.pt, yolov8s-seg.pt
 
 Model prediction results:
-![Иллюстрация к проекту](https://github.com/vaavdeev/YOLOv8-Segmentation-Agro-Inspector-Vineyard/blob/main/images/Vineyard_7.jpg)
+![Predict](https://github.com/vaavdeev/YOLOv8-Segmentation-Agro-Inspector-Vineyard/blob/main/images/Vineyard_7.jpg)
 
 As an experiment, we did two options:
 - training only in detecting the road between rows;
@@ -35,8 +35,11 @@ As an experiment, we did two options:
 
  <body>
   <p>
-<img src="images/Vineyard_1.jpg" alt="Фотография 1" width="480" height="480">
-<img src="images/Vineyard_2.jpg" alt="Фотография 2" width="480" height="480">
+<img src="images/Vineyard_1.jpg" alt="Images 1" width="480" height="480">
+<img src="images/Vineyard_2.jpg" alt="Images 2" width="480" height="480">
+  </p>
+     <p>
+<img src="images/model.gif" alt="Gif" width="640">
 
   </p>
  </body>
