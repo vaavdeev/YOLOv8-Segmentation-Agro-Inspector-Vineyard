@@ -19,7 +19,9 @@
 # Operating procedure:
 - Create a virtual environment
   example name yolo
-  $python3 -m venv yolo2
+  
+  ''' $python3 -m venv yolo2 '''
+  
   activate the environment
   $source yolo/bin/activate
 
