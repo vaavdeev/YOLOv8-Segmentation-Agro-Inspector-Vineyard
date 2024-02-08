@@ -17,3 +17,13 @@ Work in the vineyard:
 - independent movement along the rows and spraying;
 - movement behind employees in the “follow me” mode;
 - security functions;
+
+------------------------------------------------
+Software environment for training the model - Ultralytics
+https://github.com/ultralytics/ultralytics
+
+Models trained: yolov8n-seg.pt, yolov8m-seg.pt, yolov8s-seg.pt
+
+As an experiment, we did two options:
+- training only in detecting the road between rows;
+- training in detecting roads between rows, pillars, bushes...
