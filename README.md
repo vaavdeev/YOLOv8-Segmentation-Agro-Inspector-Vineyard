@@ -1,6 +1,16 @@
 # YOLOv8-Segmentation-Agro-Inspector-Vineyard
-Neural network for a mobile robot inspector in a vineyard
-Neural network for a mobile robot inspector in a vineyard
+Neural network for a mobile robot inspector in a vineyard.
+I have a small vineyard that requires a lot of time to examine its condition.
+I know how to program a little :-)
+Therefore, I decided to make myself an assistant - a small robot on a wheeled chassis. Perhaps there will be a copter.
+The robot's main task is to analyze the condition of the vineyard.
+It is necessary to recognize diseases in advance by the condition of the leaf.
+This is very important in winemaking.
+In addition, he must independently move within the rows using machine vision and obstacle recognition.
+An attempt has been made to implement the code at minimal cost.
+This repository provides a small example.
+Work on the project is not completely finished.
+
 Agrobot tasks:
 
 Movement:
