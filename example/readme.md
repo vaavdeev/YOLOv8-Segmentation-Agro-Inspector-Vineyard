@@ -17,4 +17,12 @@
  -----------------------------------------------------
 
 # Operating procedure:
-- install the necessary components; 
+- Create a virtual environment
+  example name yolo
+  $python3 -m venv yolo2
+  activate the environment
+  $source yolo/bin/activate
+
+
+
+
