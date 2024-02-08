@@ -35,8 +35,8 @@ As an experiment, we did two options:
 
  <body>
   <p>
-<img src="images/Vineyard_1.jpg" alt="Фотография 1" width="240" height="240">
-    <img src="images/Vineyard_2.jpg" alt="Фотография 2" width="240" height="240">
+<img src="images/Vineyard_1.jpg" alt="Фотография 1" width="480" height="480">
+<img src="images/Vineyard_2.jpg" alt="Фотография 2" width="480" height="480">
 
   </p>
  </body>
