@@ -1,5 +1,5 @@
 # YOLOv8-Segmentation-Agro-Inspector-Vineyard
-Neural network for a mobile robot inspector in a vineyard.
+# Neural network for a mobile robot inspector in a vineyard.
 I have a small vineyard that requires a lot of time to examine its condition.
 I know how to program a little :-)
 Therefore, I decided to make myself an assistant - a small robot on a wheeled chassis. Perhaps there will be a copter.
