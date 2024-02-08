@@ -24,6 +24,9 @@ https://github.com/ultralytics/ultralytics
 
 Models trained: yolov8n-seg.pt, yolov8m-seg.pt, yolov8s-seg.pt
 
+Model prediction results:
+![Иллюстрация к проекту](https://github.com/vaavdeev/YOLOv8-Segmentation-Agro-Inspector-Vineyard/blob/main/images/Vineyard_7.jpg)
+
 As an experiment, we did two options:
 - training only in detecting the road between rows;
 - training in detecting roads between rows, pillars, bushes...
