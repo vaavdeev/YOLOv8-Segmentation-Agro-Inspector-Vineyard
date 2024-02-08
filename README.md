@@ -35,8 +35,8 @@ As an experiment, we did two options:
 
  <body>
   <p>
-    <img src="[https://github.com/vaavdeev/YOLOv8-Segmentation-Agro-Inspector-Vineyard/blob/main/images/Vineyard_7.jpg]" alt="Фотография 1" width="120" height="120">
-    <img src="[https://github.com/vaavdeev/YOLOv8-Segmentation-Agro-Inspector-Vineyard/blob/main/images/Vineyard_7.jpg]" alt="Фотография 2" width="120" height="120">
+<img src="images/Vineyard_7.jpg" alt="Фотография 1" width="120" height="120">
+    <img src="images/Vineyard_7.jpg" alt="Фотография 2" width="120" height="120">
 
   </p>
  </body>
