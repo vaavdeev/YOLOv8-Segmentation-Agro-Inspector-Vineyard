@@ -20,11 +20,11 @@
 - Create a virtual environment,
     example name yolo
   
-  ``` $python3 -m venv yolo ```
+  ``` python3 -m venv yolo ```
   
   activate the environment
   
-  ```$source yolo/bin/activate```
+  ```source yolo/bin/activate```
   
 
 
