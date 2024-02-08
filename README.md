@@ -30,3 +30,17 @@ Model prediction results:
 As an experiment, we did two options:
 - training only in detecting the road between rows;
 - training in detecting roads between rows, pillars, bushes...
+
+  <html>
+ <head>
+  <meta charset="utf-8">
+  <title>Фотографии</title>
+ </head>
+ <body>
+  <p>
+    <img src="[images/thumb1.jpg](https://github.com/vaavdeev/YOLOv8-Segmentation-Agro-Inspector-Vineyard/blob/main/images/Vineyard_7.jpg)" alt="Фотография 1" width="120" height="120">
+    <img src="[images/thumb2.jpg](https://github.com/vaavdeev/YOLOv8-Segmentation-Agro-Inspector-Vineyard/blob/main/images/Vineyard_7.jpg)" alt="Фотография 2" width="120" height="120">
+
+  </p>
+ </body>
+</html>
